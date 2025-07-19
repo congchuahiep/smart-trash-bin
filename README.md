@@ -1,6 +1,6 @@
 ## Dự án
 
-Một chương trình IoT nhỏ dùng để phát hiện người đến gần
+Một chương trình IoT nhỏ dùng để phát hiện người đến gần thùng rác, khi người đến gần, chương trình sẽ kích hoạt motor để điều khiển nắp thùng rác, cho phép thùng rác tự động đóng/mở
 
 ## Phần cứng
 
